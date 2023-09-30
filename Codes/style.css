@@ -37,6 +37,24 @@
 }
 img {
     cursor: pointer;
-    width: 10    0px;
+    width: 100px;
     height: 120px;
+}
+#click {
+    display: flex;
+    justify-content: center;
+}
+button {
+    background-color: aqua;
+    width: 200px;
+    height: 60px;
+    font-size: 25px;
+    color: blue;
+    border-radius: 15px;
+    cursor: pointer;
+
+}
+button:hover {
+    background-color: rgb(220, 64, 64);
+    color: white;
 }
