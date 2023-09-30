@@ -1,0 +1,42 @@
+.karmir {
+ display: flex;   
+ gap: 30px;
+ flex-wrap: wrap;
+ padding-top: 50px;
+ justify-content: center;
+ 
+}
+/* .sized {
+    width: 180px;
+} */
+
+.sev {
+ display: flex;   
+ gap: 30px;
+ flex-wrap: wrap;
+ padding-top: 50px;
+ justify-content: center;
+ 
+}
+.container {
+    border: solid;
+    border-radius: 30px;
+    margin-left: 400px;
+    margin-right: 400px;
+    background-color: antiquewhite;
+    
+}
+.sevo {
+    display: flex;   
+    gap: 30px;
+    flex-wrap: wrap;
+    padding-bottom: 50px;
+    padding-top: 50px;
+    justify-content: center;
+    
+}
+img {
+    cursor: pointer;
+    width: 100px;
+    height: 120px;
+}
