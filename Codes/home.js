@@ -27,7 +27,7 @@ btn.addEventListener("click", function () {
 
 function timeHide() {
     for (let j = 0; j < repl.length; j++) {
-        repl[j].src = "/image/closed.jpeg";
+        repl[j].src = "/Cards/image/closed.jpeg";
     }
 }
 
